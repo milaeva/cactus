@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cactus/static/css/main.43837717.chunk.css",
+    "main.js": "/cactus/static/js/main.20f5ea80.chunk.js",
+    "main.js.map": "/cactus/static/js/main.20f5ea80.chunk.js.map",
+    "runtime~main.js": "/cactus/static/js/runtime~main.777475c3.js",
+    "runtime~main.js.map": "/cactus/static/js/runtime~main.777475c3.js.map",
+    "static/js/2.cce8c4e5.chunk.js": "/cactus/static/js/2.cce8c4e5.chunk.js",
+    "static/js/2.cce8c4e5.chunk.js.map": "/cactus/static/js/2.cce8c4e5.chunk.js.map",
+    "index.html": "/cactus/index.html",
+    "precache-manifest.75e8ea29da21004449f91519af563c3f.js": "/cactus/precache-manifest.75e8ea29da21004449f91519af563c3f.js",
+    "service-worker.js": "/cactus/service-worker.js",
+    "static/css/main.43837717.chunk.css.map": "/cactus/static/css/main.43837717.chunk.css.map",
+    "static/media/bg1.jpg": "/cactus/static/media/bg1.c0414aa2.jpg",
+    "static/media/it.jpg": "/cactus/static/media/it.f126e3d2.jpg"
+  }
+}
